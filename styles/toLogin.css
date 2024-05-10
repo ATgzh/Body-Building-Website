@@ -1,0 +1,23 @@
+body{
+    background-color: beige;
+    font-size: 20px;
+}
+table{
+    margin-top: 10%;
+    margin-left: 50%;
+    border-radius: 2px;
+    background-color: white;
+}
+table,td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.container{
+    margin-top: 5px;
+    margin-left: 50%;
+}
+.sign-up{
+    margin-left: 50%;
+    margin-top: 5px;
+    font-size: 16px;
+}
