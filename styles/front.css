@@ -1,6 +1,33 @@
 body{
-    background-image:url(flexing.png);
+    background-image:url(http://127.0.0.1:5500/Webpage/flexing.png);
+    background-size: 100vw 100vh;
 }
 b{
     font-size: 50px;
+}
+.nav{
+    background-color: #153941;
+    padding: 25px 15px;
+    box-sizing: content-box;
+}
+.nav a{
+    color: white;
+    text-decoration: none;
+    font-size: 24px;
+    padding: 15px 15px;
+}
+.nav a:hover{
+    background-color: rgb(153, 180, 202);
+    color: black;
+}
+.nav a.active{
+    background-color: rgb(240, 240, 255);
+    color: black;
+}
+.headline{
+    margin-left: 15%;
+}
+#head{
+    color: white;
+    margin-left: 40%;
 }
