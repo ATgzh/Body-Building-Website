@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(244, 237, 237);
+}
+table{
+    margin-top: 10%;
+    margin-left: 50%;
+    border-radius: 2px;
+    background-color: rgb(222, 207, 207);
+}
+table {
+    border: 1px solid black;
+}
+.days{
+    color: white;
+}
+.row {
+    display: flex;
+}
+  
+.column {
+    flex: 50%;
+}
