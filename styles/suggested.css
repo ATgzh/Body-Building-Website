@@ -20,3 +20,6 @@ table {
 .column {
     flex: 50%;
 }
+a{
+    color: inherit;
+}
